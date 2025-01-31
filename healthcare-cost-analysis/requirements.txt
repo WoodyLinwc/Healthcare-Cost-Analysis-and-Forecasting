@@ -1,0 +1,12 @@
+pandas
+numpy
+jupyter
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+psycopg2-binary  # PostgreSQL adapter for Python
+sqlalchemy
+plotly
+pmdarima
+openpyxl
