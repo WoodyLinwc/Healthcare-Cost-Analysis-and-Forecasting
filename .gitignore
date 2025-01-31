@@ -1,0 +1,45 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Database
+*.sqlite
+*.db
+
+# Environment variables
+.env
+.env.local
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Tableau temporary files
+*.twb~
+*.twbr~
+
+# Data files (if you don't want to commit them)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
