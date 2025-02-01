@@ -93,6 +93,9 @@ count | 13889
         - Top 10 Drugs by Spending 2022
         ![](./img/Top%2010%20Drugs%20by%20Spending%202022.png)
 
+        - Create a calculated field and put it in Filters
+        ![](./img/filter10.png)
+
         - Manufacturer Market Share 2022
         ![](./img/Manufacturer%20Market%20Share%202022.png)
 
