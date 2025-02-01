@@ -10,3 +10,4 @@ sqlalchemy
 plotly
 pmdarima
 openpyxl
+saspy
