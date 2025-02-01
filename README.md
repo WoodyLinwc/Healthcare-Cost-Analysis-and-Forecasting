@@ -10,6 +10,8 @@ This project analyzes Medicare Part D drug spending data from 2018-2022, providi
 
 - Dataset: Medicare Part D Spending by Drug (Latest data available)
 
+    ![](./img/CMS.png)
+
 ## Key Features
 - Data cleaning and preprocessing
 
