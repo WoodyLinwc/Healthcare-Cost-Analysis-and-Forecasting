@@ -56,9 +56,19 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
-4. Set up PostgreSQL database
+4. Set up PostgreSQL database in the terminal
 ```
 createdb healthcare_costs
+```
+
+5. Connect to PostgreSQL database and check the number of records
+```
+psql healthcare_costs
+```
+```
+healthcare_costs=# SELECT COUNT(*) FROM medicare_spending;
+-[ RECORD 1 ]
+count | 13889
 ```
 
 ## Workflow
